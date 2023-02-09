@@ -1,0 +1,4 @@
+repository "LAB1_CassandraBergeron@cassberg@cloud"
+  path "/"
+    br "/main"
+    co "/main"
